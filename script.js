@@ -13,6 +13,6 @@ function validateForm() {
         return false;
     }
 
-    alert("Login success!");
+    alert("Login successful!");
     return true;
 }
